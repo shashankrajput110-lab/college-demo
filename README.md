@@ -1,4 +1,4 @@
 # college-demo
  This is my first git repository
  <br>
-Author - Shashank Rajput
+Author - Shashank Rajput ( amity raipur)
